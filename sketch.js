@@ -52,7 +52,7 @@ function draw() {
     }
     
     database.ref('/').update({
-      Food:x
+      food:x
     })
   }
 
